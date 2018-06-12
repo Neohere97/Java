@@ -5,10 +5,10 @@ public class ultimate_converter
 {
 formatter f=new formatter();
 writer gh=new writer();
-checknumexception check=new checknumexception();
+checknumexception check = new checknumexception();
      public void main(String args[])throws IOException
      {
-
+        
         System.out.println("uuu  uuu  lll     tttttttttt iiiiiiiiii  mmm        mmm    a a    tttttttttt  eeeeeeee      ");
         System.out.println("uuu  uuu  lll         tt         ii      mm  m     m mm  aa   aa      tt      ee            ");
         System.out.println("uuu  uuu  lll         tt         ii      mm   m  m   mm  aaaaaaa      tt      eeeeeeee      ");
