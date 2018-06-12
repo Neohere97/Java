@@ -8,6 +8,7 @@ writer gh=new writer();
 checknumexception check = new checknumexception();
      public void main(String args[])throws IOException
      {
+        System.out.println("Now I dont seem to understand my own code");
         
         System.out.println("uuu  uuu  lll     tttttttttt iiiiiiiiii  mmm        mmm    a a    tttttttttt  eeeeeeee      ");
         System.out.println("uuu  uuu  lll         tt         ii      mm  m     m mm  aa   aa      tt      ee            ");
